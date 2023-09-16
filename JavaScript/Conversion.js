@@ -30,4 +30,4 @@ let str_boolean=Boolean(boolean_str);
 let boolean_name="somu"
 let name_boolean=Boolean(boolean_name); //out put will be true
 
-console.table([typeof(num_boolean),(num_boolean),(str_boolean),(name_boolean)]) //boolean true
+console.table00([typeof(num_boolean),(num_boolean),(str_boolean),(name_boolean)]) //boolean true
